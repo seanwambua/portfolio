@@ -1,0 +1,189 @@
+/*******************************************************
+    Template Name    : Liam - Personal Portfolio Landing Page Template
+*******************************************************/
+
+@media only screen and (min-width: 991px) and (max-width: 1024px) {
+	.home-area {
+		background-attachment: unset;
+	}
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+		padding-right: 0;
+		padding-left: 0 !important;
+	}
+	.home-area {
+		background-attachment: unset;
+	}
+	.home-area .home-content h1 {
+		font-size: 35px;
+		line-height: 1.3;
+	}
+	.about-img-wrapper {
+		text-align: center;
+	}
+	.about-content {
+		margin-top: 35px;
+	}
+	.timeline-item .box {
+		padding-left: 40px;
+	}
+	#project .project-list .nav li {
+		margin: 0 5px 20px;
+	}
+	.blog-item {
+		margin-bottom: 30px;
+	}
+	.blog-item:last-child {
+		margin-bottom: 0px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: 250px;
+		overflow-y: scroll;
+	}
+	.home-area {
+		background-attachment: unset;
+	}
+	.home-area .home-content h1 {
+		font-size: 33px;
+		line-height: 1.3;
+	}
+	.about-img-wrapper {
+		text-align: center;
+	}
+	.about-content {
+		margin-top: 35px;
+	}
+	.timeline-item .box {
+		padding-left: 40px;
+	}
+	#project .project-list .nav li {
+		float: unset;
+	}
+	.blog-item {
+		margin-bottom: 30px;
+	}
+	.blog-item:last-child {
+		margin-bottom: 0px;
+	}
+}
+
+
+@media only screen and (max-width: 479px) {
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	.home-area {
+		background-attachment: unset;
+	}
+	.home-area .home-content h1 {
+		font-size: 33px;
+		line-height: 1.3;
+	}
+	.about-img-wrapper {
+		text-align: center;
+	}
+	.about-content {
+		margin-top: 35px;
+	}
+	.timeline-item .box {
+		padding-left: 40px;
+	}
+	#project .project-list .nav li {
+		float: unset;
+	}
+	#project .project-list .nav li {
+		margin: 0 5px 20px;
+	}
+	.single-testimonial {
+		padding: 0;
+	}
+	.blog-item {
+		margin-bottom: 30px;
+	}
+	.blog-item:last-child {
+		margin-bottom: 0px;
+	}
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px){
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	.section-title h2 {
+		font-size: 33px;
+	}
+	.home-area {
+		padding-top: 70px;
+		padding-bottom: 0px;
+		background-attachment: unset;
+	}
+	.home-area .home-content h1 {
+		font-size: 30px;
+		line-height: 1.3;
+	}
+	.about-img-wrapper {
+		text-align: center;
+	}
+	.about-content {
+		margin-top: 35px;
+	}
+	.about-content h6 {
+		letter-spacing: 2px;
+	}
+	.single-services-box {
+		padding: 45px 15px;
+	}
+	.timeline-item .box {
+		padding-left: 40px;
+	}
+	#project .project-list .nav li {
+		float: unset;
+	}
+	#project .project-list .nav li {
+		margin: 0 2px 20px;
+	}
+	.single-testimonial {
+		padding: 0;
+	}
+	.blog-item {
+		margin-bottom: 30px;
+	}
+	.blog-item:last-child {
+		margin-bottom: 0px;
+	}
+}
+
+@media screen and (max-width: 991px) and (min-width: 0px){
+	.blog-area .single-blog{
+		display: inline !important;
+	}
+}
